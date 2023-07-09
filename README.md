@@ -12,7 +12,7 @@
   <p align="center">
     Seleção de personagens de Sandman 
     <br />
-    <a href="https://github.com/MatheusSantos087/Projeto-The_last_of_Us/blob/main/index.html"><strong>Explorar a documentação »</strong></a>
+    <a href="https://github.com/MatheusSantos087/Projeto-Perpetuos/blob/main/index.html"><strong>Explorar a documentação »</strong></a>
     <br />
     <br />
     <a href="https://matheussantos087.github.io/Projeto-The_last_of_Us/">Ver Demonstração</a>

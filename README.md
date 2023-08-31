@@ -15,7 +15,7 @@
     <a href="https://github.com/MatheusSantos087/Projeto-Perpetuos/blob/main/index.html"><strong>Explorar a documentação »</strong></a>
     <br />
     <br />
-    <a href="https://matheussantos087.github.io/Projeto-The_last_of_Us/">Ver Demonstração</a>
+    <a href="https://matheussantos087.github.io/Projeto-Perpetuos/">Ver Demonstração</a>
     ·
     <a href="https://github.com/MatheusSantos087/Projeto-Perpetuos/issues">Relatar Bug</a>
     ·
